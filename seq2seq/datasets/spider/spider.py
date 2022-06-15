@@ -43,7 +43,7 @@ _HOMEPAGE = "https://yale-lily.github.io/spider"
 _LICENSE = "CC BY-SA 4.0"
 https://drive.google.com/file/d//view?usp=sharing
 
-_URL = "https://drive.google.com/uc?export=download&id=1fgjWYaieM5vV3xxuaisDGVnSvp0EmUJt&confirm=t"
+_URL = "https://drive.google.com/uc?export=download&id=1uJjPsJCGQt-PPfLNh-qpaofkoFptLMOL&confirm=t"
 
 
 class Spider(datasets.GeneratorBasedBuilder):

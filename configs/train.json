@@ -1,6 +1,6 @@
 {
-    "run_name": "t5-spider-table-augumentation",
-    "model_name_or_path": "t5-base",
+    "run_name": "t5-spider-large-ble-augumentation",
+    "model_name_or_path": "tscholak/t5.1.1.lm100k.large",
     "dataset": "spider",
     "source_prefix": "",
     "schema_serialization_type": "peteshaw",
